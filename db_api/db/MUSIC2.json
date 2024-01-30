@@ -1,0 +1,902 @@
+﻿[
+    {
+        "ID": "0",
+        "Title": "Baddie",
+        "Artist": "IVE",
+        "Album": "I'VE MINE",
+        "Duration": "0:02:35",
+        "Genre": "Dance",
+        "Release_Date": "2023.10.13"
+    },
+    {
+        "ID": "1",
+        "Title": "Love Lee",
+        "Artist": "AKMU",
+        "Album": "Love Lee",
+        "Duration": "0:03:00",
+        "Genre": "Dance",
+        "Release_Date": "2023.8.21"
+    },
+    {
+        "ID": "2",
+        "Title": "후라이의 꿈",
+        "Artist": "AKMU",
+        "Album": "Love Lee",
+        "Duration": "0:03:25",
+        "Genre": "Dance",
+        "Release_Date": "2023.8.22"
+    },
+    {
+        "ID": "3",
+        "Title": "You & Me",
+        "Artist": "제니",
+        "Album": "JENNIE Special Single [You & Me]",
+        "Duration": "0:02:40",
+        "Genre": "Dance",
+        "Release_Date": "2023.10.6"
+    },
+    {
+        "ID": "4",
+        "Title": "Perfect Night",
+        "Artist": "LE SSERAFIM",
+        "Album": "Perfect Night",
+        "Duration": "0:03:05",
+        "Genre": "Dance",
+        "Release_Date": "2023.10.27"
+    },
+    {
+        "ID": "5",
+        "Title": "Seven (feat. Latto) - Clean Ver.",
+        "Artist": "정국",
+        "Album": "Seven (feat. Latto) - Clean Ver.",
+        "Duration": "0:04:04",
+        "Genre": "Dance",
+        "Release_Date": "2023.7.14"
+    },
+    {
+        "ID": "6",
+        "Title": "헤어지자 말해요",
+        "Artist": "박재정",
+        "Album": "1집 Alone",
+        "Duration": "0:02:47",
+        "Genre": "Ballad",
+        "Release_Date": "2023.4.20"
+    },
+    {
+        "ID": "7",
+        "Title": "Either Way",
+        "Artist": "IVE",
+        "Album": "I'VE MINE",
+        "Duration": "0:03:30",
+        "Genre": "Dance",
+        "Release_Date": "2023.10.13"
+    },
+    {
+        "ID": "8",
+        "Title": "\"Smoke (Prod. Dynamicduo, Padi)\"",
+        "Artist": "\"다이나믹 듀오, 이영지\"",
+        "Album": "스트릿 우먼 파이터2(SWF2) 계급미션",
+        "Duration": "0:02:35",
+        "Genre": "Dance",
+        "Release_Date": "2023.9.5"
+    },
+    {
+        "ID": "9",
+        "Title": "Super Shy",
+        "Artist": "NewJeans",
+        "Album": "NewJeans 2nd EP 'Get Up'",
+        "Duration": "0:03:04",
+        "Genre": "Dance",
+        "Release_Date": "2023.7.21"
+    },
+    {
+        "ID": "10",
+        "Title": "I AM",
+        "Artist": "IVE",
+        "Album": "I've IVE",
+        "Duration": "0:04:20",
+        "Genre": "Dance",
+        "Release_Date": "2023.4.10"
+    },
+    {
+        "ID": "11",
+        "Title": "사막에서 꽃을 피우듯",
+        "Artist": "우디",
+        "Album": "사막에서 꽃을 피우듯",
+        "Duration": "0:02:32",
+        "Genre": "Ballad",
+        "Release_Date": "2023.7.14"
+    },
+    {
+        "ID": "12",
+        "Title": "ETA",
+        "Artist": "NewJeans",
+        "Album": "NewJeans 2nd EP 'Get Up'",
+        "Duration": "0:02:41",
+        "Genre": "Dance",
+        "Release_Date": "2023.7.21"
+    },
+    {
+        "ID": "13",
+        "Title": "Fast Forward",
+        "Artist": "전소미",
+        "Album": "GAME PLAN",
+        "Duration": "0:03:35",
+        "Genre": "Dance",
+        "Release_Date": "2023.8.7"
+    },
+    {
+        "ID": "14",
+        "Title": "Drama",
+        "Artist": "aespa",
+        "Album": "Drama - The 4th Mini Album",
+        "Duration": "0:03:26",
+        "Genre": "Dance",
+        "Release_Date": "2023.11.10"
+    },
+    {
+        "ID": "15",
+        "Title": "음악의 신",
+        "Artist": "세븐틴",
+        "Album": "SEVENTEEN 11th Mini Album ‘SEVENTEENTH HEAVEN'",
+        "Duration": "0:02:41",
+        "Genre": "Dance",
+        "Release_Date": "2023.10.23"
+    },
+    {
+        "ID": "16",
+        "Title": "Get A Guitar",
+        "Artist": "RIIZE",
+        "Album": "Get A Guitar",
+        "Duration": "0:02:42",
+        "Genre": "Dance",
+        "Release_Date": "2023.9.4"
+    },
+    {
+        "ID": "17",
+        "Title": "퀸카 (Queencard)",
+        "Artist": "(여자)아이들",
+        "Album": "I feel",
+        "Duration": "0:02:31",
+        "Genre": "Dance",
+        "Release_Date": "2023.5.15"
+    },
+    {
+        "ID": "18",
+        "Title": "I Love My Body",
+        "Artist": "화사",
+        "Album": "I Love My Body",
+        "Duration": "0:02:57",
+        "Genre": "Dance",
+        "Release_Date": "2023.9.6"
+    },
+    {
+        "ID": "19",
+        "Title": "Hype Boy",
+        "Artist": "NewJeans",
+        "Album": "NewJeans 1st EP 'New Jeans'",
+        "Duration": "0:04:54",
+        "Genre": "Dance",
+        "Release_Date": "2022.8.1"
+    },
+    {
+        "ID": "20",
+        "Title": "잠시라도 우리",
+        "Artist": "성시경",
+        "Album": "잠시라도 우리",
+        "Duration": "0:03:27",
+        "Genre": "Ballad",
+        "Release_Date": "2023.10.19"
+    },
+    {
+        "ID": "21",
+        "Title": "Standing Next to You",
+        "Artist": "정국",
+        "Album": "GOLDEN",
+        "Duration": "0:03:00",
+        "Genre": "Dance",
+        "Release_Date": "2023.11.3"
+    },
+    {
+        "ID": "22",
+        "Title": "Bubble",
+        "Artist": "STAYC",
+        "Album": "TEENFRESH",
+        "Duration": "0:03:09",
+        "Genre": "Dance",
+        "Release_Date": "2023.8.16"
+    },
+    {
+        "ID": "23",
+        "Title": "Off The Record",
+        "Artist": "IVE",
+        "Album": "I'VE MINE",
+        "Duration": "0:03:06",
+        "Genre": "Dance",
+        "Release_Date": "2023.10.13"
+    },
+    {
+        "ID": "24",
+        "Title": "Ditto",
+        "Artist": "NewJeans",
+        "Album": "NewJeans 'OMG'",
+        "Duration": "0:04:19",
+        "Genre": "Dance",
+        "Release_Date": "2023.1.2"
+    },
+    {
+        "ID": "25",
+        "Title": "\"잘 지내자, 우리 (여름날 우리 X 로이킴)\"",
+        "Artist": "로이킴",
+        "Album": "\"잘 지내자, 우리 (여름날 우리 X 로이킴)\"",
+        "Duration": "0:04:03",
+        "Genre": "Ballad",
+        "Release_Date": "2023.7.6"
+    },
+    {
+        "ID": "26",
+        "Title": "사랑은 늘 도망가",
+        "Artist": "임영웅",
+        "Album": "신사와 아가씨 OST Part.2",
+        "Duration": "0:04:03",
+        "Genre": "Ballad",
+        "Release_Date": "2021.10.11"
+    },
+    {
+        "ID": "27",
+        "Title": "너의 모든 순간",
+        "Artist": "성시경",
+        "Album": "별에서 온 그대 OST Part.7",
+        "Duration": "0:03:36",
+        "Genre": "Ballad",
+        "Release_Date": "2014.2.12"
+    },
+    {
+        "ID": "28",
+        "Title": "인사",
+        "Artist": "범진",
+        "Album": "인사",
+        "Duration": "0:04:51",
+        "Genre": "Ballad",
+        "Release_Date": "2021.12.24"
+    },
+    {
+        "ID": "29",
+        "Title": "\" 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지\"",
+        "Artist": "AKMU",
+        "Album": "항해",
+        "Duration": "0:03:18",
+        "Genre": "Ballad",
+        "Release_Date": "2019.9.25"
+    },
+    {
+        "ID": "30",
+        "Title": "Spicy",
+        "Artist": "aespa",
+        "Album": "MY WORLD - The 3rd Mini Album",
+        "Duration": "0:03:06",
+        "Genre": "R&B/Soul",
+        "Release_Date": "2023.5.8"
+    },
+    {
+        "ID": "31",
+        "Title": "\"이브, 프시케 그리고 푸른 수염의 아내\"",
+        "Artist": "LE SSERAFIM",
+        "Album": "UNFORGIVEN",
+        "Duration": "0:03:16",
+        "Genre": "Dance",
+        "Release_Date": "2023.5.1"
+    },
+    {
+        "ID": "32",
+        "Title": "Kitsch",
+        "Artist": "IVE",
+        "Album": "I've IVE",
+        "Duration": "0:03:12",
+        "Genre": "Dance",
+        "Release_Date": "2023.4.10"
+    },
+    {
+        "ID": "33",
+        "Title": "Steal The Show (From “엘리멘탈”)",
+        "Artist": "Lauv",
+        "Album": "Steal The Show (From “엘리멘탈”)",
+        "Duration": "0:05:01",
+        "Genre": "POP",
+        "Release_Date": "2023.6.2"
+    },
+    {
+        "ID": "34",
+        "Title": "사건의 지평선",
+        "Artist": "윤하",
+        "Album": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
+        "Duration": "0:03:05",
+        "Genre": "Rock/Metal",
+        "Release_Date": "2022.3.30"
+    },
+    {
+        "ID": "35",
+        "Title": "사랑인가 봐",
+        "Artist": "멜로망스",
+        "Album": "사랑인가 봐 (사내맞선 OST 스페셜 트랙)",
+        "Duration": "0:03:44",
+        "Genre": "Ballad",
+        "Release_Date": "2022.2.18"
+    },
+    {
+        "ID": "36",
+        "Title": "사랑하지 않아서 그랬어",
+        "Artist": "임한별",
+        "Album": "사랑하지 않아서 그랬어",
+        "Duration": "0:03:09",
+        "Genre": "Ballad",
+        "Release_Date": "2023.4.2"
+    },
+    {
+        "ID": "37",
+        "Title": "I Don't Think That I Like Her",
+        "Artist": "Charlie Puth",
+        "Album": "CHARLIE",
+        "Duration": "0:02:44",
+        "Genre": "POP",
+        "Release_Date": "2022.10.7"
+    },
+    {
+        "ID": "38",
+        "Title": "별 떨어진다 (I Do)",
+        "Artist": "디오",
+        "Album": "기대 - The 2nd Mini Album",
+        "Duration": "0:02:58",
+        "Genre": "Ballad",
+        "Release_Date": "2023.9.18"
+    },
+    {
+        "ID": "39",
+        "Title": "LOVE DIVE",
+        "Artist": "IVE",
+        "Album": "LOVE DIVE",
+        "Duration": "0:03:44",
+        "Genre": "Dance",
+        "Release_Date": "2022.4.5"
+    },
+    {
+        "ID": "40",
+        "Title": "물론",
+        "Artist": "허각",
+        "Album": "물론",
+        "Duration": "0:04:18",
+        "Genre": "Ballad",
+        "Release_Date": "2023.4.28"
+    },
+    {
+        "ID": "41",
+        "Title": "심(心)",
+        "Artist": "DK",
+        "Album": "심(心)",
+        "Duration": "0:02:57",
+        "Genre": "Rock/Metal",
+        "Release_Date": "2023.2.19"
+    },
+    {
+        "ID": "42",
+        "Title": "After LIKE",
+        "Artist": "IVE",
+        "Album": "After LIKE",
+        "Duration": "0:03:48",
+        "Genre": "Dance",
+        "Release_Date": "2022.8.22"
+    },
+    {
+        "ID": "43",
+        "Title": "취중고백",
+        "Artist": "김민석",
+        "Album": "취중고백",
+        "Duration": "0:03:33",
+        "Genre": "Ballad",
+        "Release_Date": "2021.12.19"
+    },
+    {
+        "ID": "44",
+        "Title": "OMG",
+        "Artist": "NewJeans",
+        "Album": "NewJeans 'OMG'",
+        "Duration": "0:04:15",
+        "Genre": "Dance",
+        "Release_Date": "2023.1.2"
+    },
+    {
+        "ID": "45",
+        "Title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
+        "Artist": "너드커넥션",
+        "Album": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
+        "Duration": "0:04:26",
+        "Genre": "Ballad",
+        "Release_Date": "2023.8.15"
+    },
+    {
+        "ID": "46",
+        "Title": "주저하는 연인들을 위해",
+        "Artist": "잔나비",
+        "Album": "전설",
+        "Duration": "0:03:19",
+        "Genre": "Rock/Metal",
+        "Release_Date": "2019.3.13"
+    },
+    {
+        "ID": "47",
+        "Title": "Dangerously",
+        "Artist": "Charlie Puth",
+        "Album": "Nine Track Mind (Deluxe Edition)",
+        "Duration": "0:03:21",
+        "Genre": "POP",
+        "Release_Date": "2016.11.11"
+    },
+    {
+        "ID": "48",
+        "Title": "손오공",
+        "Artist": "세븐틴",
+        "Album": "SEVENTEEN 10th Mini Album ‘FML'",
+        "Duration": "0:03:20",
+        "Genre": "R&B/Soul",
+        "Release_Date": "2023.4.24"
+    },
+    {
+        "ID": "49",
+        "Title": "Summer (Feat. BE’O (비오))",
+        "Artist": "Paul Blanco",
+        "Album": "Summer",
+        "Duration": "0:03:11",
+        "Genre": "Rap/Hip Hop",
+        "Release_Date": "2022.6.15"
+    },
+    {
+        "ID": "50",
+        "Title": "나에게 그대만이",
+        "Artist": "탑현",
+        "Album": "나에게 그대만이",
+        "Duration": "0:03:52",
+        "Genre": "Ballad",
+        "Release_Date": "2023.6.11"
+    },
+    {
+        "ID": "51",
+        "Title": "다정히 내 이름을 부르면",
+        "Artist": "경서예지",
+        "Album": "다정히 내 이름을 부르면 (경서예지 x 전건호)",
+        "Duration": "0:03:03",
+        "Genre": "Ballad",
+        "Release_Date": "2021.5.19"
+    },
+    {
+        "ID": "52",
+        "Title": "UNFORGIVEN (feat. Nile Rodgers)",
+        "Artist": "LE SSERAFIM",
+        "Album": "UNFORGIVEN",
+        "Duration": "0:02:58",
+        "Genre": "Dance",
+        "Release_Date": "2023.5.1"
+    },
+    {
+        "ID": "53",
+        "Title": "Attention",
+        "Artist": "NewJeans",
+        "Album": "NewJeans 1st EP 'New Jeans'",
+        "Duration": "0:03:26",
+        "Genre": "Dance",
+        "Release_Date": "2022.8.1"
+    },
+    {
+        "ID": "54",
+        "Title": "Do or Die",
+        "Artist": "임영웅",
+        "Album": "Do or Die",
+        "Duration": "0:03:25",
+        "Genre": "Dance",
+        "Release_Date": "2023.10.9"
+    },
+    {
+        "ID": "55",
+        "Title": "파이팅 해야지 (Feat. 이영지)",
+        "Artist": "부석순",
+        "Album": "부석순 1st Single Album 'SECOND WIND'",
+        "Duration": "0:03:59",
+        "Genre": "Dance",
+        "Release_Date": "2023.2.6"
+    },
+    {
+        "ID": "56",
+        "Title": "해요 (2022)",
+        "Artist": "#안녕",
+        "Album": "해요 (2022)",
+        "Duration": "0:03:28",
+        "Genre": "Ballad",
+        "Release_Date": "2022.6.7"
+    },
+    {
+        "ID": "57",
+        "Title": "우리들의 블루스",
+        "Artist": "임영웅",
+        "Album": "IM HERO",
+        "Duration": "0:03:22",
+        "Genre": "Ballad",
+        "Release_Date": "2022.5.22"
+    },
+    {
+        "ID": "58",
+        "Title": "3D (feat. Jack Harlow)",
+        "Artist": "정국",
+        "Album": "3D (feat. Jack Harlow)",
+        "Duration": "0:03:20",
+        "Genre": "Dance",
+        "Release_Date": "2023.9.29"
+    },
+    {
+        "ID": "59",
+        "Title": "Dynamite",
+        "Artist": "방탄소년단",
+        "Album": "Dynamite (DayTime Version)",
+        "Duration": "0:03:41",
+        "Genre": "Dance",
+        "Release_Date": "2020.8.21"
+    },
+    {
+        "ID": "60",
+        "Title": "모래 알갱이",
+        "Artist": "임영웅",
+        "Album": "모래 알갱이",
+        "Duration": "0:02:22",
+        "Genre": "Ballad",
+        "Release_Date": "2023.6.5"
+    },
+    {
+        "ID": "61",
+        "Title": "STAY",
+        "Artist": "The Kid LAROI",
+        "Album": "Stay",
+        "Duration": "0:03:46",
+        "Genre": "POP",
+        "Release_Date": "2021.7.9"
+    },
+    {
+        "ID": "62",
+        "Title": "사랑..그게 뭔데",
+        "Artist": "지아",
+        "Album": "사랑..그게 뭔데",
+        "Duration": "0:02:27",
+        "Genre": "Ballad",
+        "Release_Date": "2023.5.12"
+    },
+    {
+        "ID": "63",
+        "Title": "\"이쁜 여자가 좋더라 (Feat. Gist, Jayci yucca)\"",
+        "Artist": "릴러말즈",
+        "Album": "인생은 한번이야",
+        "Duration": "0:04:00",
+        "Genre": "Rap/Hip Hop",
+        "Release_Date": "2023.10.26"
+    },
+    {
+        "ID": "64",
+        "Title": "Still With You",
+        "Artist": "정국",
+        "Album": "Still With You",
+        "Duration": "0:02:54",
+        "Genre": "R&B/Soul",
+        "Release_Date": "2020.6.5"
+    },
+    {
+        "ID": "65",
+        "Title": "꽃",
+        "Artist": "지수",
+        "Album": "ME",
+        "Duration": "0:04:35",
+        "Genre": "Dance",
+        "Release_Date": "2023.3.31"
+    },
+    {
+        "ID": "66",
+        "Title": "다시 만날 수 있을까",
+        "Artist": "임영웅",
+        "Album": "IM HERO",
+        "Duration": "0:03:16",
+        "Genre": "Ballad",
+        "Release_Date": "2022.5.22"
+    },
+    {
+        "ID": "67",
+        "Title": "건물 사이에 피어난 장미 (Rose Blossom)",
+        "Artist": "H1-KEY",
+        "Album": "H1-KEY 1st Mini Album [Rose Blossom]",
+        "Duration": "0:04:15",
+        "Genre": "Dance",
+        "Release_Date": "2023.1.5"
+    },
+    {
+        "ID": "68",
+        "Title": "\"밤, 바다\"",
+        "Artist": "최유리",
+        "Album": "여행: 플리(playlist) OST Part.2",
+        "Duration": "0:03:19",
+        "Genre": "Ballad",
+        "Release_Date": "2023.10.29"
+    },
+    {
+        "ID": "69",
+        "Title": "CAKE",
+        "Artist": "ITZY",
+        "Album": "KILL MY DOUBT",
+        "Duration": "0:01:49",
+        "Genre": "Dance",
+        "Release_Date": "2023.7.31"
+    },
+    {
+        "ID": "70",
+        "Title": "New Jeans",
+        "Artist": "NewJeans",
+        "Album": "NewJeans 2nd EP 'Get Up'",
+        "Duration": "0:04:03",
+        "Genre": "Dance",
+        "Release_Date": "2023.7.21"
+    },
+    {
+        "ID": "71",
+        "Title": "이제 나만 믿어요",
+        "Artist": "임영웅",
+        "Album": "내일은 미스터트롯 우승자 특전곡",
+        "Duration": "0:04:34",
+        "Genre": "Trot",
+        "Release_Date": "2020.4.3"
+    },
+    {
+        "ID": "72",
+        "Title": "봄날",
+        "Artist": "방탄소년단",
+        "Album": "YOU NEVER WALK ALONE",
+        "Duration": "0:02:56",
+        "Genre": "Rap/Hip Hop",
+        "Release_Date": "2017.2.13"
+    },
+    {
+        "ID": "73",
+        "Title": "사실말야내가말야그게그러니까말이야",
+        "Artist": "케이시",
+        "Album": "사실말야내가말야그게그러니까말이야",
+        "Duration": "0:03:10",
+        "Genre": "Ballad",
+        "Release_Date": "2023.6.4"
+    },
+    {
+        "ID": "74",
+        "Title": "Teddy Bear",
+        "Artist": "STAYC",
+        "Album": "Teddy Bear",
+        "Duration": "0:03:35",
+        "Genre": "Dance",
+        "Release_Date": "2023.2.14"
+    },
+    {
+        "ID": "75",
+        "Title": "Vancouver 2",
+        "Artist": "BIG Naughty",
+        "Album": "ICN > YVR",
+        "Duration": "0:03:37",
+        "Genre": "Rock/Metal",
+        "Release_Date": "2023.11.23"
+    },
+    {
+        "ID": "76",
+        "Title": "Chill Kill",
+        "Artist": "Red Velvet (레드벨벳)",
+        "Album": "Chill Kill - The 3rd Album",
+        "Duration": "0:03:27",
+        "Genre": "Dance",
+        "Release_Date": "2023.11.13"
+    },
+    {
+        "ID": "77",
+        "Title": "첫 눈",
+        "Artist": "EXO",
+        "Album": "겨울 스페셜 앨범 '12월의 기적 (Miracles In December)'",
+        "Duration": "0:02:45",
+        "Genre": "Ballad",
+        "Release_Date": "2013.12.9"
+    },
+    {
+        "ID": "78",
+        "Title": "Butter",
+        "Artist": "방탄소년단",
+        "Album": "Butter",
+        "Duration": "0:03:30",
+        "Genre": "Dance",
+        "Release_Date": "2021.5.21"
+    },
+    {
+        "ID": "79",
+        "Title": "무지개",
+        "Artist": "임영웅",
+        "Album": "IM HERO",
+        "Duration": "0:02:16",
+        "Genre": "Ballad",
+        "Release_Date": "2022.5.22"
+    },
+    {
+        "ID": "80",
+        "Title": "\"모든 날, 모든 순간 (Every day, Every Moment)\"",
+        "Artist": "폴킴",
+        "Album": "'키스 먼저 할까요?' OST Part.3",
+        "Duration": "0:04:05",
+        "Genre": "Ballad",
+        "Release_Date": "2018.3.20"
+    },
+    {
+        "ID": "81",
+        "Title": "Chili",
+        "Artist": "화사",
+        "Album": "Chili",
+        "Duration": "0:03:31",
+        "Genre": "Dance",
+        "Release_Date": "2023.10.4"
+    },
+    {
+        "ID": "82",
+        "Title": "달빛에 그려지는",
+        "Artist": "미연",
+        "Album": "연인 OST Part.4",
+        "Duration": "0:04:05",
+        "Genre": "Ballad",
+        "Release_Date": "2023.8.20"
+    },
+    {
+        "ID": "83",
+        "Title": "KIDDING",
+        "Artist": "이세계아이돌",
+        "Album": "KIDDING",
+        "Duration": "0:03:59",
+        "Genre": "Dance",
+        "Release_Date": "2023.8.18"
+    },
+    {
+        "ID": "84",
+        "Title": "London Boy",
+        "Artist": "임영웅",
+        "Album": "Polaroid",
+        "Duration": "0:03:05",
+        "Genre": "Rock/Metal",
+        "Release_Date": "2022.11.15"
+    },
+    {
+        "ID": "85",
+        "Title": "아버지",
+        "Artist": "임영웅",
+        "Album": "IM HERO",
+        "Duration": "0:02:28",
+        "Genre": "Ballad",
+        "Release_Date": "2022.5.22"
+    },
+    {
+        "ID": "86",
+        "Title": "ANTIFRAGILE",
+        "Artist": "LE SSERAFIM",
+        "Album": "ANTIFRAGILE",
+        "Duration": "0:04:02",
+        "Genre": "Dance",
+        "Release_Date": "2022.10.17"
+    },
+    {
+        "ID": "87",
+        "Title": "Yes or No",
+        "Artist": "정국",
+        "Album": "GOLDEN",
+        "Duration": "0:03:27",
+        "Genre": "Dance",
+        "Release_Date": "2023.11.3"
+    },
+    {
+        "ID": "88",
+        "Title": "All I Want for Christmas Is You",
+        "Artist": "Mariah Carey",
+        "Album": "Merry Christmas (Deluxe Anniversary Edition)",
+        "Duration": "0:03:44",
+        "Genre": "R&B/Soul",
+        "Release_Date": "2019.11.1"
+    },
+    {
+        "ID": "89",
+        "Title": "Polaroid",
+        "Artist": "임영웅",
+        "Album": "Polaroid",
+        "Duration": "0:03:32",
+        "Genre": "Rock/Metal",
+        "Release_Date": "2022.11.15"
+    },
+    {
+        "ID": "90",
+        "Title": "미친 사랑의 노래",
+        "Artist": "김연지",
+        "Album": "미친 사랑의 노래",
+        "Duration": "0:03:54",
+        "Genre": "Ballad",
+        "Release_Date": "2023.8.20"
+    },
+    {
+        "ID": "91",
+        "Title": "Baggy Jeans",
+        "Artist": "NCT U",
+        "Album": "Golden Age - The 4th Album",
+        "Duration": "0:03:49",
+        "Genre": "Rap/Hip Hop",
+        "Release_Date": "2023.8.28"
+    },
+    {
+        "ID": "92",
+        "Title": "인생찬가",
+        "Artist": "임영웅",
+        "Album": "IM HERO",
+        "Duration": "0:03:01",
+        "Genre": "Ballad",
+        "Release_Date": "2022.5.22"
+    },
+    {
+        "ID": "93",
+        "Title": "숲",
+        "Artist": "최유리",
+        "Album": "유영",
+        "Duration": "0:02:46",
+        "Genre": "Folk/Blues",
+        "Release_Date": "2022.8.24"
+    },
+    {
+        "ID": "94",
+        "Title": "I WANT",
+        "Artist": "IVE",
+        "Album": "I WANT",
+        "Duration": "0:02:35",
+        "Genre": "Dance",
+        "Release_Date": "2023.7.13"
+    },
+    {
+        "ID": "95",
+        "Title": "Snowman",
+        "Artist": "Sia",
+        "Album": "Everyday Is Christmas (Snowman Deluxe Edition)",
+        "Duration": "0:04:17",
+        "Genre": "POP",
+        "Release_Date": "2022.12.30"
+    },
+    {
+        "ID": "96",
+        "Title": "Hate You",
+        "Artist": "정국",
+        "Album": "GOLDEN",
+        "Duration": "0:02:39",
+        "Genre": "Dance",
+        "Release_Date": "2023.11.3"
+    },
+    {
+        "ID": "97",
+        "Title": "A bientot",
+        "Artist": "임영웅",
+        "Album": "IM HERO",
+        "Duration": "0:04:17",
+        "Genre": "Ballad",
+        "Release_Date": "2022.5.22"
+    },
+    {
+        "ID": "98",
+        "Title": "GODS",
+        "Artist": "NewJeans",
+        "Album": "2023 리그 오브 레전드 월드 챔피언십 주제곡",
+        "Duration": "0:03:32",
+        "Genre": "Dance",
+        "Release_Date": "2023.10.4"
+    },
+    {
+        "ID": "99",
+        "Title": "민들레 (single ver.)",
+        "Artist": "우효",
+        "Album": "민들레",
+        "Duration": "0:04:12",
+        "Genre": "Rock/Metal",
+        "Release_Date": "2017.5.30"
+    }
+]

@@ -1,0 +1,101 @@
+Music_ID,Title,Artist,Album,Duration,Genre,Release_Date
+0,Baddie,IVE,I'VE MINE,0:02:35,Dance,2023.10.13
+1,Love Lee,AKMU,Love Lee,0:03:00,Dance,2023.8.21
+2,ÈÄ¶óÀÌÀÇ ²Þ,AKMU,Love Lee,0:03:25,Dance,2023.8.22
+3,You & Me,Á¦´Ï,JENNIE Special Single [You & Me],0:02:40,Dance,2023.10.6
+4,Perfect Night,LE SSERAFIM,Perfect Night,0:03:05,Dance,2023.10.27
+5,Seven (feat. Latto) - Clean Ver.,Á¤±¹,Seven (feat. Latto) - Clean Ver.,0:04:04,Dance,2023.7.14
+6,Çì¾îÁöÀÚ ¸»ÇØ¿ä,¹ÚÀçÁ¤,1Áý Alone,0:02:47,Ballad,2023.4.20
+7,Either Way,IVE,I'VE MINE,0:03:30,Dance,2023.10.13
+8,"Smoke (Prod. Dynamicduo, Padi)","´ÙÀÌ³ª¹Í µà¿À, ÀÌ¿µÁö",½ºÆ®¸´ ¿ì¸Õ ÆÄÀÌÅÍ2(SWF2) °è±Þ¹Ì¼Ç,0:02:35,Dance,2023.9.5
+9,Super Shy,NewJeans,NewJeans 2nd EP 'Get Up',0:03:04,Dance,2023.7.21
+10,I AM,IVE,I've IVE,0:04:20,Dance,2023.4.10
+11,»ç¸·¿¡¼­ ²ÉÀ» ÇÇ¿ìµí,¿ìµð,»ç¸·¿¡¼­ ²ÉÀ» ÇÇ¿ìµí,0:02:32,Ballad,2023.7.14
+12,ETA,NewJeans,NewJeans 2nd EP 'Get Up',0:02:41,Dance,2023.7.21
+13,Fast Forward,Àü¼Ò¹Ì,GAME PLAN,0:03:35,Dance,2023.8.7
+14,Drama,aespa,Drama - The 4th Mini Album,0:03:26,Dance,2023.11.10
+15,À½¾ÇÀÇ ½Å,¼¼ºìÆ¾,SEVENTEEN 11th Mini Album ¡®SEVENTEENTH HEAVEN',0:02:41,Dance,2023.10.23
+16,Get A Guitar,RIIZE,Get A Guitar,0:02:42,Dance,2023.9.4
+17,ÄýÄ« (Queencard),(¿©ÀÚ)¾ÆÀÌµé,I feel,0:02:31,Dance,2023.5.15
+18,I Love My Body,È­»ç,I Love My Body,0:02:57,Dance,2023.9.6
+19,Hype Boy,NewJeans,NewJeans 1st EP 'New Jeans',0:04:54,Dance,2022.8.1
+20,Àá½Ã¶óµµ ¿ì¸®,¼º½Ã°æ,Àá½Ã¶óµµ ¿ì¸®,0:03:27,Ballad,2023.10.19
+21,Standing Next to You,Á¤±¹,GOLDEN,0:03:00,Dance,2023.11.3
+22,Bubble,STAYC,TEENFRESH,0:03:09,Dance,2023.8.16
+23,Off The Record,IVE,I'VE MINE,0:03:06,Dance,2023.10.13
+24,Ditto,NewJeans,NewJeans 'OMG',0:04:19,Dance,2023.1.2
+25,"Àß Áö³»ÀÚ, ¿ì¸® (¿©¸§³¯ ¿ì¸® X ·ÎÀÌÅ´)",·ÎÀÌÅ´,"Àß Áö³»ÀÚ, ¿ì¸® (¿©¸§³¯ ¿ì¸® X ·ÎÀÌÅ´)",0:04:03,Ballad,2023.7.6
+26,»ç¶ûÀº ´Ã µµ¸Á°¡,ÀÓ¿µ¿õ,½Å»ç¿Í ¾Æ°¡¾¾ OST Part.2,0:04:03,Ballad,2021.10.11
+27,³ÊÀÇ ¸ðµç ¼ø°£,¼º½Ã°æ,º°¿¡¼­ ¿Â ±×´ë OST Part.7,0:03:36,Ballad,2014.2.12
+28,ÀÎ»ç,¹üÁø,ÀÎ»ç,0:04:51,Ballad,2021.12.24
+29,"€¾î¶»°Ô ÀÌº°±îÁö »ç¶ûÇÏ°Ú¾î, ³Î »ç¶ûÇÏ´Â °ÅÁö",AKMU,Ç×ÇØ,0:03:18,Ballad,2019.9.25
+30,Spicy,aespa,MY WORLD - The 3rd Mini Album,0:03:06,R&B/Soul,2023.5.8
+31,"ÀÌºê, ÇÁ½ÃÄÉ ±×¸®°í Çª¸¥ ¼ö¿°ÀÇ ¾Æ³»",LE SSERAFIM,UNFORGIVEN,0:03:16,Dance,2023.5.1
+32,Kitsch,IVE,I've IVE,0:03:12,Dance,2023.4.10
+33,€Steal The Show (From ¡°¿¤¸®¸àÅ»¡±),Lauv,€Steal The Show (From ¡°¿¤¸®¸àÅ»¡±),0:05:01,POP,2023.6.2
+34,»ç°ÇÀÇ ÁöÆò¼±,À±ÇÏ,YOUNHA 6th Album Repackage 'END THEORY : Final Edition',0:03:05,Rock/Metal,2022.3.30
+35,»ç¶ûÀÎ°¡ ºÁ,¸á·Î¸Á½º,»ç¶ûÀÎ°¡ ºÁ (»ç³»¸Â¼± OST ½ºÆä¼È Æ®·¢),0:03:44,Ballad,2022.2.18
+36,»ç¶ûÇÏÁö ¾Ê¾Æ¼­ ±×·¨¾î,ÀÓÇÑº°,»ç¶ûÇÏÁö ¾Ê¾Æ¼­ ±×·¨¾î,0:03:09,Ballad,2023.4.2
+37,I Don't Think That I Like Her,Charlie Puth,CHARLIE,0:02:44,POP,2022.10.7
+38,º° ¶³¾îÁø´Ù (I Do),µð¿À,±â´ë - The 2nd Mini Album,0:02:58,Ballad,2023.9.18
+39,LOVE DIVE,IVE,LOVE DIVE,0:03:44,Dance,2022.4.5
+40,¹°·Ð,Çã°¢,¹°·Ð,0:04:18,Ballad,2023.4.28
+41,½É(ãý),DK,½É(ãý),0:02:57,Rock/Metal,2023.2.19
+42,After LIKE,IVE,After LIKE,0:03:48,Dance,2022.8.22
+43,ÃëÁß°í¹é,±è¹Î¼®,ÃëÁß°í¹é,0:03:33,Ballad,2021.12.19
+44,OMG,NewJeans,NewJeans 'OMG',0:04:15,Dance,2023.1.2
+45,±×´ë¸¸ ÀÖ´Ù¸é (¿©¸§³¯ ¿ì¸® X ³ÊµåÄ¿³Ø¼Ç (Nerd Connection)),³ÊµåÄ¿³Ø¼Ç,±×´ë¸¸ ÀÖ´Ù¸é (¿©¸§³¯ ¿ì¸® X ³ÊµåÄ¿³Ø¼Ç (Nerd Connection)),0:04:26,Ballad,2023.8.15
+46,ÁÖÀúÇÏ´Â ¿¬ÀÎµéÀ» À§ÇØ,ÀÜ³ªºñ,Àü¼³,0:03:19,Rock/Metal,2019.3.13
+47,Dangerously,Charlie Puth,Nine Track Mind (Deluxe Edition),0:03:21,POP,2016.11.11
+48,¼Õ¿À°ø,¼¼ºìÆ¾,SEVENTEEN 10th Mini Album ¡®FML',0:03:20,R&B/Soul,2023.4.24
+49,Summer (Feat. BE¡¯O (ºñ¿À)),Paul Blanco,Summer,0:03:11,Rap/Hip Hop,2022.6.15
+50,³ª¿¡°Ô ±×´ë¸¸ÀÌ,Å¾Çö,³ª¿¡°Ô ±×´ë¸¸ÀÌ,0:03:52,Ballad,2023.6.11
+51,´ÙÁ¤È÷ ³» ÀÌ¸§À» ºÎ¸£¸é,°æ¼­¿¹Áö,´ÙÁ¤È÷ ³» ÀÌ¸§À» ºÎ¸£¸é (°æ¼­¿¹Áö x Àü°ÇÈ£),0:03:03,Ballad,2021.5.19
+52,UNFORGIVEN (feat. Nile Rodgers),LE SSERAFIM,UNFORGIVEN,0:02:58,Dance,2023.5.1
+53,Attention,NewJeans,NewJeans 1st EP 'New Jeans',0:03:26,Dance,2022.8.1
+54,Do or Die,ÀÓ¿µ¿õ,Do or Die,0:03:25,Dance,2023.10.9
+55,ÆÄÀÌÆÃ ÇØ¾ßÁö (Feat. ÀÌ¿µÁö),ºÎ¼®¼ø,ºÎ¼®¼ø 1st Single Album 'SECOND WIND',0:03:59,Dance,2023.2.6
+56,ÇØ¿ä (2022),#¾È³ç,ÇØ¿ä (2022),0:03:28,Ballad,2022.6.7
+57,¿ì¸®µéÀÇ ºí·ç½º,ÀÓ¿µ¿õ,IM HERO,0:03:22,Ballad,2022.5.22
+58,3D (feat. Jack Harlow),Á¤±¹,3D (feat. Jack Harlow),0:03:20,Dance,2023.9.29
+59,Dynamite,¹æÅº¼Ò³â´Ü,Dynamite (DayTime Version),0:03:41,Dance,2020.8.21
+60,¸ð·¡ ¾Ë°»ÀÌ,ÀÓ¿µ¿õ,¸ð·¡ ¾Ë°»ÀÌ,0:02:22,Ballad,2023.6.5
+61,STAY,The Kid LAROI,Stay,0:03:46,POP,2021.7.9
+62,»ç¶û..±×°Ô ¹ºµ¥,Áö¾Æ,»ç¶û..±×°Ô ¹ºµ¥,0:02:27,Ballad,2023.5.12
+63,"ÀÌ»Û ¿©ÀÚ°¡ ÁÁ´õ¶ó (Feat. Gist, Jayci yucca)",¸±·¯¸»Áî,ÀÎ»ýÀº ÇÑ¹øÀÌ¾ß,0:04:00,Rap/Hip Hop,2023.10.26
+64,Still With You,Á¤±¹,Still With You,0:02:54,R&B/Soul,2020.6.5
+65,²É,Áö¼ö,ME,0:04:35,Dance,2023.3.31
+66,´Ù½Ã ¸¸³¯ ¼ö ÀÖÀ»±î,ÀÓ¿µ¿õ,IM HERO,0:03:16,Ballad,2022.5.22
+67,°Ç¹° »çÀÌ¿¡ ÇÇ¾î³­ Àå¹Ì (Rose Blossom),H1-KEY,H1-KEY 1st Mini Album [Rose Blossom],0:04:15,Dance,2023.1.5
+68,"¹ã, ¹Ù´Ù",ÃÖÀ¯¸®,¿©Çà: ÇÃ¸®(playlist) OST Part.2,0:03:19,Ballad,2023.10.29
+69,CAKE,ITZY,KILL MY DOUBT,0:01:49,Dance,2023.7.31
+70,New Jeans,NewJeans,NewJeans 2nd EP 'Get Up',0:04:03,Dance,2023.7.21
+71,ÀÌÁ¦ ³ª¸¸ ¹Ï¾î¿ä,ÀÓ¿µ¿õ,³»ÀÏÀº ¹Ì½ºÅÍÆ®·Ô ¿ì½ÂÀÚ Æ¯Àü°î,0:04:34,Trot,2020.4.3
+72,º½³¯,¹æÅº¼Ò³â´Ü,YOU NEVER WALK ALONE,0:02:56,Rap/Hip Hop,2017.2.13
+73,»ç½Ç¸»¾ß³»°¡¸»¾ß±×°Ô±×·¯´Ï±î¸»ÀÌ¾ß,ÄÉÀÌ½Ã,»ç½Ç¸»¾ß³»°¡¸»¾ß±×°Ô±×·¯´Ï±î¸»ÀÌ¾ß,0:03:10,Ballad,2023.6.4
+74,Teddy Bear,STAYC,Teddy Bear,0:03:35,Dance,2023.2.14
+75,Vancouver 2,BIG Naughty,ICN > YVR,0:03:37,Rock/Metal,2023.11.23
+76,Chill Kill,Red Velvet (·¹µåº§ºª),Chill Kill - The 3rd Album,0:03:27,Dance,2023.11.13
+77,Ã¹ ´«,EXO,°Ü¿ï ½ºÆä¼È ¾Ù¹ü '12¿ùÀÇ ±âÀû (Miracles In December)',0:02:45,Ballad,2013.12.9
+78,Butter,¹æÅº¼Ò³â´Ü,Butter,0:03:30,Dance,2021.5.21
+79,¹«Áö°³,ÀÓ¿µ¿õ,IM HERO,0:02:16,Ballad,2022.5.22
+80,"¸ðµç ³¯, ¸ðµç ¼ø°£ (Every day, Every Moment)",ÆúÅ´,'Å°½º ¸ÕÀú ÇÒ±î¿ä?' OST Part.3,0:04:05,Ballad,2018.3.20
+81,Chili,È­»ç,Chili,0:03:31,Dance,2023.10.4
+82,´Þºû¿¡ ±×·ÁÁö´Â,¹Ì¿¬,¿¬ÀÎ OST Part.4,0:04:05,Ballad,2023.8.20
+83,KIDDING,ÀÌ¼¼°è¾ÆÀÌµ¹,KIDDING,0:03:59,Dance,2023.8.18
+84,London Boy,ÀÓ¿µ¿õ,Polaroid,0:03:05,Rock/Metal,2022.11.15
+85,¾Æ¹öÁö,ÀÓ¿µ¿õ,IM HERO,0:02:28,Ballad,2022.5.22
+86,ANTIFRAGILE,LE SSERAFIM,ANTIFRAGILE,0:04:02,Dance,2022.10.17
+87,Yes or No,Á¤±¹,GOLDEN,0:03:27,Dance,2023.11.3
+88,All I Want for Christmas Is You,Mariah Carey,Merry Christmas (Deluxe Anniversary Edition),0:03:44,R&B/Soul,2019.11.1
+89,Polaroid,ÀÓ¿µ¿õ,Polaroid,0:03:32,Rock/Metal,2022.11.15
+90,¹ÌÄ£ »ç¶ûÀÇ ³ë·¡,±è¿¬Áö,¹ÌÄ£ »ç¶ûÀÇ ³ë·¡,0:03:54,Ballad,2023.8.20
+91,Baggy Jeans,NCT U,Golden Age - The 4th Album,0:03:49,Rap/Hip Hop,2023.8.28
+92,ÀÎ»ýÂù°¡,ÀÓ¿µ¿õ,IM HERO,0:03:01,Ballad,2022.5.22
+93,½£,ÃÖÀ¯¸®,À¯¿µ,0:02:46,Folk/Blues,2022.8.24
+94,I WANT,IVE,I WANT,0:02:35,Dance,2023.7.13
+95,Snowman,Sia,Everyday Is Christmas (Snowman Deluxe Edition),0:04:17,POP,2022.12.30
+96,Hate You,Á¤±¹,GOLDEN,0:02:39,Dance,2023.11.3
+97,A bientot,ÀÓ¿µ¿õ,IM HERO,0:04:17,Ballad,2022.5.22
+98,GODS,NewJeans,2023 ¸®±× ¿Àºê ·¹Àüµå ¿ùµå Ã¨ÇÇ¾ð½Ê ÁÖÁ¦°î,0:03:32,Dance,2023.10.4
+99,¹Îµé·¹ (single ver.),¿ìÈ¿,¹Îµé·¹,0:04:12,Rock/Metal,2017.5.30
